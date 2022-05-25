@@ -35,7 +35,7 @@ keywords: [backend, github, blog, java, spring]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo: /assets/img/me/me.jpg
+logo: /assets/me/me.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -51,8 +51,8 @@ menu:
     url: /about/
   - title: Posts
     url: /posts/
-  - title: Example1
-    url: /example1/
+  - title: Portfolio
+    url: /portfolio/
   - title: Example2
     url: /example2/
   - title: Subcat
