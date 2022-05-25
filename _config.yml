@@ -19,18 +19,18 @@ baseurl: ""
 lang: ko_KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title: 멋사 강의 블로그
+title: 앉아영서영
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description: >
-  멋쟁이 사자처럼 함께 따라하면서 배우는 GitBlog
+  생각, 행동 기록 Blog
 
 # A shorter description for the sidebar.
-tagline: 면접관이 좋아하는 GitBlog
+tagline: 가보자고
 
 # A list of keywords for your blog
-keywords: [AI, git, gitblog, data science]
+keywords: [backend, github, blog, java, spring]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -40,8 +40,8 @@ logo: /assets/img/logo.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name: HyunWoo Kim
-  email: khw11044@gmail.com
+  name: SeoYoung Kim
+  email: seoyeomedev@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
