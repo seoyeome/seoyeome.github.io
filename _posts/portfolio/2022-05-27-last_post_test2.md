@@ -25,3 +25,6 @@ categories:
 > **IT 교육의 중요성**
 >
 > 4차 산업혁명으로 IT 산업의 가속화와 더불어 팬데믹에 따른 디지털 전환의 가속화로 IT 역량의 중요성이 더욱 증가하고 있습니다. 현재의 패러다임에 맞춰 **IT 중심 교육 플랫폼**을 기획하였습니다
+
+자세한 사항은 Notion을 참고해 주시길 바랍니다.
+[프로젝트소개] : (https://broken-zebra-b49.notion.site/22a7a5ee8bec4da784ec2af65547d981,"Project Intro Link")
