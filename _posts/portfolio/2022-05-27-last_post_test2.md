@@ -28,4 +28,4 @@ categories:
 
 자세한 사항은 Notion을 참고해 주시길 바랍니다.
 
-[프로젝트 소개] :https://broken-zebra-b49.notion.site/22a7a5ee8bec4da784ec2af65547d981
+[프로젝트 소개]: https://broken-zebra-b49.notion.site/22a7a5ee8bec4da784ec2af65547d981 "project intro"
