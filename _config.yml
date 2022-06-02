@@ -316,7 +316,6 @@ exclude:
   - vendor
   - Gemfile
   - Gemfile.lock
-
 include:
   - .well-known
   - LICENSE.md
@@ -363,8 +362,9 @@ plugins:
 # Used on index and about sites
 # social:
 #   name:                <firstname> <lastname>
-  links:
-    - https://github.com/seoyeome
+#   links:
+#     - https://twitter.com/<username>
+#     - https://github.com/<username>
 
 # Plugin Configs
 # ---------------------------------------------------------------------------------------
