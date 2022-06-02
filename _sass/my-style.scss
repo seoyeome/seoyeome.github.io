@@ -45,3 +45,13 @@
   margin-left: 20px !important;  // 소개글 위치 정하기 200px
   margin-top: 20px !important;      // 20px
 }
+
+.markdown-body {
+  mark {
+    padding: 3px 5px;
+    background-color: #d0b8db;
+    font-family: 'Merriweather-Light','Lato','-apple-system','Verdana','PingFang SC','Helvetica Neue','Arial','Hiragino Sans GB','Microsoft YaHei','WenQuanYi Micro Hei','sans-serif';
+    font-weight: 500;
+    border-radius: 3px;
+  }
+}
