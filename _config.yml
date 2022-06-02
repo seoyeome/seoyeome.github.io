@@ -40,7 +40,7 @@ logo: /assets/img/logo.jpg
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name: SeoYoung Kim
+  name: 김서영
   email: seoyeomedev@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
@@ -362,9 +362,9 @@ plugins:
 # Used on index and about sites
 # social:
 #   name:                <firstname> <lastname>
-#   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+  links:
+    # - https://twitter.com/<username>
+    - https://github.com/seoyeome
 
 # Plugin Configs
 # ---------------------------------------------------------------------------------------
