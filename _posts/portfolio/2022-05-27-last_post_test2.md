@@ -10,7 +10,7 @@ categories:
   - portfolio
 ---
 
-# 개발자를 위한 강의 사이트 'ROTUTEE'
+# ✏️개발자를 위한 강의 사이트 'ROTUTEE✏️'
 
 ## 프로젝트 소개
 
