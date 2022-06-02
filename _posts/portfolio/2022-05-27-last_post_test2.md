@@ -20,6 +20,7 @@ categories:
 #### 프로젝트 진행 기간
 
 업무분석 및 요건정의 : 2022-03-17 ~ 2022-04-01
+
 <details>
 <summary>세부 일자</summary>
 <div markdown="1">
@@ -48,3 +49,11 @@ Use Case 다이어그램 : 2022-03-19 ~ 2022-03-20<br>
 자세한 사항은 Notion을 참고해 주시길 바랍니다.
 
 [프로젝트 소개](https://broken-zebra-b49.notion.site/22a7a5ee8bec4da784ec2af65547d981 "project intro")
+
+#### 시장조사
+
+[시장조사1](/assets/img/portfolio/rotutee/market-research1.png){: width="595" height="350"}
+
+[시장조사2](/assets/img/portfolio/rotutee/market-research2.png){: width="595" height="350"}
+
+[시장조사3](/assets/img/portfolio/rotutee/market-research3.png){: width="595" height="350"}
