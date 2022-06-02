@@ -49,12 +49,12 @@ author:
 menu:
   - title: About
     url: /about/
-  - title: Posts
-    url: /posts/
+  # - title: Posts
+  #   url: /posts/
   - title: Portfolio
     url: /portfolio/
-  - title: Example2
-    url: /example2/
+  # - title: Example2
+  #   url: /example2/
   - title: Subcat
     url: /subcat/
     submenu:
