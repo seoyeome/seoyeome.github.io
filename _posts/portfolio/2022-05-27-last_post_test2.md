@@ -52,8 +52,8 @@ Use Case 다이어그램 : 2022-03-19 ~ 2022-03-20<br>
 
 #### 시장조사
 
-![시장조사1](/assets/img/portfolio/rotutee/market-research1.png){: width="700" height="450"}
+![시장조사1](/assets/img/portfolio/rotutee/market-research1.png){: width="800"}
 
-![시장조사2](/assets/img/portfolio/rotutee/market-research2.png){: width="700" height="450"}
+![시장조사2](/assets/img/portfolio/rotutee/market-research2.png){: width="800"}
 
-![시장조사3](/assets/img/portfolio/rotutee/market-research3.png){: width="700" height="450"}
+![시장조사3](/assets/img/portfolio/rotutee/market-research3.png){: width="800"}
