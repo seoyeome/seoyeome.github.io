@@ -10,14 +10,18 @@ categories:
   - portfolio
 ---
 
-### ✏️개발자를 위한 강의 사이트 'ROTUTEE'✏️
+## ✏️개발자를 위한 강의 사이트 'ROTUTEE'✏️
 
-#### <mark>프로젝트 소개</mark>
+* toc
+{:toc .large-only}
+
+
+### 프로젝트 소개
 
 ЯOTUTEE는 **Quiz, ToDo, 질의응답 게시판** 등을 포함한 **LMS** 기능을 추가해
 기존의 단방향적인 강의 프로그램에서 벗어난 **자기주도적** 학습을 돕는 **IT 개발 전문 온라인 교육 플랫폼** 입니다.
 
-#### 프로젝트 진행 기간
+### 프로젝트 진행 기간
 
 업무분석 및 요건정의 : 2022-03-17 ~ 2022-04-01
 
@@ -36,7 +40,7 @@ Use Case 다이어그램 : 2022-03-19 ~ 2022-03-20<br>
 
 [진행 기간 상세 Notion Link](https://broken-zebra-b49.notion.site/ROTUTEE-WBS-bc3dcd0f8bf74ca8a5fdf92c88df716c "rotutee wbs")
 
-#### 기획 의도
+### 기획 의도
 
 > **비대면 교육의 증가**
 >
@@ -50,7 +54,7 @@ Use Case 다이어그램 : 2022-03-19 ~ 2022-03-20<br>
 
 [프로젝트 소개](https://broken-zebra-b49.notion.site/22a7a5ee8bec4da784ec2af65547d981 "project intro")
 
-#### 시장조사
+### 시장조사
 
 ![시장조사1](/assets/img/portfolio/rotutee/market-research1.png){: width="800"}
 
