@@ -15,8 +15,9 @@ categories:
 * toc
 {:toc .large-only}
 
+## 1. 기획
 
-### 프로젝트 소개
+### 1-1. 프로젝트 소개
 
 ЯOTUTEE는 **Quiz, ToDo, 질의응답 게시판** 등을 포함한 **LMS** 기능을 추가해
 기존의 단방향적인 강의 프로그램에서 벗어난 **자기주도적** 학습을 돕는 **IT 개발 전문 온라인 교육 플랫폼** 입니다.
@@ -40,7 +41,7 @@ Use Case 다이어그램 : 2022-03-19 ~ 2022-03-20<br>
 
 [진행 기간 상세 Notion Link](https://broken-zebra-b49.notion.site/ROTUTEE-WBS-bc3dcd0f8bf74ca8a5fdf92c88df716c "rotutee wbs")
 
-### 기획 의도
+### 1-2. 기획 의도
 
 > **비대면 교육의 증가**
 >
@@ -52,9 +53,9 @@ Use Case 다이어그램 : 2022-03-19 ~ 2022-03-20<br>
 
 자세한 사항은 Notion을 참고해 주시길 바랍니다.
 
-[프로젝트 소개](https://broken-zebra-b49.notion.site/22a7a5ee8bec4da784ec2af65547d981 "project intro")
+🚩상세 Notion 링크 : [프로젝트 소개](https://broken-zebra-b49.notion.site/22a7a5ee8bec4da784ec2af65547d981 "project intro")
 
-### 시장조사
+### 1-3. 시장조사
 
 ![시장조사1](/assets/img/portfolio/rotutee/market-research1.png){: width="800"}
 
@@ -67,3 +68,9 @@ Use Case 다이어그램 : 2022-03-19 ~ 2022-03-20<br>
 ![시장조사3](/assets/img/portfolio/rotutee/market-research3.png){: width="800"}
 
 [원본](/assets/img/portfolio/rotutee/market-research3.png)
+
+### 1-4. 유사 프로그램 분석
+
+![유사프로그램 분석](/assets/img/portfolio/rotutee/analyze-program.PNG)
+
+🚩상세 Notion 링크 : [유사프로그램 분석](https://broken-zebra-b49.notion.site/7e2d424b58c7496382461a6b76546939)
