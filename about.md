@@ -10,5 +10,6 @@ hide_description: true
 
 > Name: 김서영 <br/>
 > Birth: 1997.08.14
+> 고려대학교 세종캠퍼스 환경시스템공학과 졸업
 
 <!--author-->
