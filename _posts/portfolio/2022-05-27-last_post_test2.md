@@ -15,16 +15,32 @@ categories:
 * toc
 {:toc .large-only}
 
+## 프로젝트 진행 기간
+
+### 업무분석 및 요건정의 : 2022-03-17 ~ 2022-04-01
+
+### 개발환경
+
+> **Java11**, **Oracle**, **HTML/CSS**, **JavaScript**, **Spring Boot 2.6.6**, **Thymeleaf**, **JPA**
+
+### 사용 Tool
+
+> **Intellij**, **DBeaver**, **Visual Studio Code**
+
+### 형상관리 Tool
+
+> **GitLab**, **SouceTree**
+
+### 개발 Process
+
+> Waterfall 방식
+
 ## 1. 기획
 
 ### 1-1. 프로젝트 소개
 
 ЯOTUTEE는 **Quiz, ToDo, 질의응답 게시판** 등을 포함한 **LMS** 기능을 추가해
 기존의 단방향적인 강의 프로그램에서 벗어난 **자기주도적** 학습을 돕는 **IT 개발 전문 온라인 교육 플랫폼** 입니다.
-
-### 프로젝트 진행 기간
-
-업무분석 및 요건정의 : 2022-03-17 ~ 2022-04-01
 
 <details>
 <summary>세부 일자</summary>
@@ -85,8 +101,11 @@ Use Case 다이어그램 : 2022-03-19 ~ 2022-03-20<br>
 ### 1-5. 주요 기능
 
 > 주요기능 도출은 프로젝트 기획을 바탕으로 필수 기능, 필수 기능과 상호작용되는 서브 기능 순으로 도출 하였습니다. 그 다음 서비스의 이용자 권한을 기준으로 기능을 분류하였습니다.
+<br/>
+
 > 서비스의 중심인 강의를 기준으로 강의 시청, 강의 영상 업로드 등을 서비스의 목적에 맞게 도출하였습니다.
 
 ![기능 도출 예시](/assets/img/portfolio/rotutee/primary-function.jpg){: width="800"}
 
 🚩상세 Notion 링크 : [주요 기능](https://broken-zebra-b49.notion.site/6f9e50f77e1746258f85ba332996a42c)
+

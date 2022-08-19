@@ -6,6 +6,9 @@ description: >
 hide_description: true
 ---
 
-# About
+# About Me
+
+> Name: 김서영 <br/>
+> Birth: 1997.08.14
 
 <!--author-->
