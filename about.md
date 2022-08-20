@@ -19,5 +19,20 @@ hide_description: true
 ## Work
 > 2019.07.01~ 2019.07.31 효림산업 취수수처리사업본부 기술영업팀 인턴
 
+## Skill
+> Back-End
+> Java, JSP, Spring, Spring Boot, RestFul API, MyBatis, JPA
+
+> Front-End
+> HTML5, CSS3, JavaScript(ES6), React, JQuery, BootStrap
+
+> DB
+> Oracle, MySQL
+
+> Server
+> Apache Tomcat, AWS EC2, Docker
+
+
+
 
 <!--author-->
