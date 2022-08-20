@@ -9,7 +9,7 @@ hide_description: true
 # About Me
 
 > Name: 김서영 <br/>
-> Birth: 1997.08.14
+> Birth: 1997.08.14 <br/>
 > 고려대학교 세종캠퍼스 환경시스템공학과 졸업
 
 ## Education
@@ -20,16 +20,16 @@ hide_description: true
 > 2019.07.01~ 2019.07.31 효림산업 취수수처리사업본부 기술영업팀 인턴
 
 ## Skill
-> Back-End
+> **Back-End** <br/>
 > Java, JSP, Spring, Spring Boot, RestFul API, MyBatis, JPA
 
-> Front-End
+> **Front-End** <br/>
 > HTML5, CSS3, JavaScript(ES6), React, JQuery, BootStrap
 
-> DB
+> **DB** <br/>
 > Oracle, MySQL
 
-> Server
+> **Server** <br/>
 > Apache Tomcat, AWS EC2, Docker
 
 
