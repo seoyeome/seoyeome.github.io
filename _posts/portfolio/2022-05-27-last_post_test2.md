@@ -13,8 +13,6 @@ no_break_layout: false
 
 ## ✏️개발자를 위한 강의 사이트 'ROTUTEE'✏️
 
-* toc
-{:toc}
 
 ### 프로젝트 진행 기간
 
@@ -46,6 +44,9 @@ no_break_layout: false
 > [프로젝트 소개](https://broken-zebra-b49.notion.site/OTUTEE-86336f3579304a7e9312dbf3cee24dc0)
 
 * * *
+
+* toc
+{:toc}
 
 ## 1. 기획
 
