@@ -137,6 +137,18 @@ Use Case 다이어그램 : 2022-03-19 ~ 2022-03-20<br>
 
 🚩상세 Notion 링크 : [주요 기능](https://broken-zebra-b49.notion.site/5396b0d2682e46fe881d3149e736a47f)
 
+### 2-4. 단위업무정의서
+
+![전체업무흐름도](/assets/img/portfolio/rotutee/unit-task-define.PNG){: width="800"}
+
+🚩상세 Notion 링크 : [주요 기능](https://broken-zebra-b49.notion.site/cf872ad56d1843a78d13f8692131f641)
+
+### 2-5. 프로토타이핑
+
+![전체업무흐름도](/assets/img/portfolio/rotutee/prototyping.PNG){: width="800"}
+
+🚩상세 Notion 링크 : [프로토타이핑](https://broken-zebra-b49.notion.site/8fba657bcc3346809c6a77dae6cfcd2b)
+
 * * *
 
 ## 3. 설계
