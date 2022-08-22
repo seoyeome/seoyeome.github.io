@@ -39,7 +39,11 @@ no_break_layout: false
 
 ### 개발 Process
 
-> **Waterfall 방식** 
+> **Waterfall 방식**
+
+### Project Notion Link
+
+> [프로젝트 소개](https://broken-zebra-b49.notion.site/OTUTEE-86336f3579304a7e9312dbf3cee24dc0)
 
 * * *
 
@@ -166,7 +170,13 @@ Use Case 다이어그램 : 2022-03-19 ~ 2022-03-20<br>
 
 ### 3-2. 메뉴 구조도
 
-![메뉴구조도](/assets/img/portfolio/rotutee/Menu%20Structure.png){: width="800"}
+![메뉴구조도](/assets/img/portfolio/rotutee/Menu_Structure.png){: width="800"}
+
+### 3-3. 프로그램 목록 및 상세
+
+![프로그램 설계](/assets/img/portfolio/rotutee/program_list_detail.PNG){: width="800"}
+
+🚩상세 Notion 링크 : [프로그램 설계](https://broken-zebra-b49.notion.site/b01e7a16dc084d2780ec6482a6df86f2)
 
 
 
