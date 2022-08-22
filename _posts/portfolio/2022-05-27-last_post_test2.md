@@ -38,7 +38,9 @@ categories:
 
 ### 개발 Process
 
-> **Waterfall 방식**
+> **Waterfall 방식** 
+
+* * *
 
 ## 1. 기획
 
@@ -114,6 +116,8 @@ Use Case 다이어그램 : 2022-03-19 ~ 2022-03-20<br>
 
 🚩상세 Notion 링크 : [주요 기능](https://broken-zebra-b49.notion.site/6f9e50f77e1746258f85ba332996a42c)
 
+* * *
+
 ## 2. 업무 분석 및 요건 정의
 
 ### 2-1. 요구사항명세
@@ -131,3 +135,15 @@ Use Case 다이어그램 : 2022-03-19 ~ 2022-03-20<br>
 ![전체업무흐름도](/assets/img/portfolio/rotutee/unit-task-sample.PNG){: width="800"}
 
 🚩상세 Notion 링크 : [주요 기능](https://broken-zebra-b49.notion.site/5396b0d2682e46fe881d3149e736a47f)
+
+* * *
+
+## 3. 설계
+
+### 3-1. 논리 데이터 베이스 모델(ERD)
+
+![전체업무흐름도](/assets/img/portfolio/rotutee/DB_ERD_Final.png){: width="800"}
+
+### 3-2. ERD 설계 과정
+
+
