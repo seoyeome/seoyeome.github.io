@@ -5,10 +5,8 @@ tags: 온라인교육플랫폼
 description: >
   Final project
 sitemap: false
-hide_last_modified: false
 categories:
   - portfolio
-no_break_layout: false
 ---
 
 ## ✏️개발자를 위한 강의 사이트 'ROTUTEE'✏️
