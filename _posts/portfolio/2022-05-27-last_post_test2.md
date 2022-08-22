@@ -14,6 +14,7 @@ categories:
 
 * toc
 {:toc .large-only}
+toc_sticky: true
 
 ### 프로젝트 진행 기간
 
@@ -144,6 +145,13 @@ Use Case 다이어그램 : 2022-03-19 ~ 2022-03-20<br>
 
 ![전체업무흐름도](/assets/img/portfolio/rotutee/DB_ERD_Final.png){: width="800"}
 
-### 3-2. ERD 설계 과정
+### 3-2. ERD 설계 시 고려한 점
+
+-  PK 설정
+- 중복 데이터 제거
+- 관계 설정 후 재검토
+- 필드명 통일
+
+
 
 
