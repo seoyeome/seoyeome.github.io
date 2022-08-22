@@ -142,15 +142,18 @@ Use Case 다이어그램 : 2022-03-19 ~ 2022-03-20<br>
 
 ### 3-1. 논리 데이터 베이스 모델(ERD)
 
-![전체업무흐름도](/assets/img/portfolio/rotutee/DB_ERD_Final.png){: width="800"}
+![ERD](/assets/img/portfolio/rotutee/DB_ERD_Final.png){: width="800"}
 
-### 3-2. ERD 설계 시 고려한 점
+#### 3-1-1. ERD 설계 시 고려한 점
 
 -  PK 설정
 - 중복 데이터 제거
 - 관계 설정 후 재검토
 - 필드명 통일
 
+### 3-2. 메뉴 구조도
+
+![메뉴구조도](/assets/img/portfolio/rotutee/Menu%20Structure.png){: width="800"}
 
 
 
