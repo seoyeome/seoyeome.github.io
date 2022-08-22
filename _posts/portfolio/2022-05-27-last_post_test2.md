@@ -14,7 +14,6 @@ categories:
 
 * toc
 {:toc .large-only}
-toc_sticky: true
 
 ### 프로젝트 진행 기간
 
