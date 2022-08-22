@@ -14,7 +14,7 @@ no_break_layout: false
 ## ✏️개발자를 위한 강의 사이트 'ROTUTEE'✏️
 
 * toc
-{:toc .large-only}
+{:toc}
 
 ### 프로젝트 진행 기간
 
@@ -126,6 +126,9 @@ Use Case 다이어그램 : 2022-03-19 ~ 2022-03-20<br>
 ## 2. 업무 분석 및 요건 정의
 
 ### 2-1. 요구사항명세
+
+> 기획을 바탕으로 업무를 분류하여 업무별로 요구사항을 작성하였습니다.
+> 
 
 ![요구사항명세](/assets/img/portfolio/rotutee/require.PNG){: width="800"}
 
