@@ -8,9 +8,15 @@ hide_description: true
 
 # About Me
 
-> Name: 김서영 <br/>
-> Birth: 1997.08.14 <br/>
-> 고려대학교 세종캠퍼스 환경시스템공학과 졸업
+<center>
+<span style="font-size:170%;font-weight:bold"> 김서영
+</span>
+</center>
+
+<center>Birth: 1997.08.14</center>
+<center>Environmental Engineering</center>
+<center>Korea University Sejong</center>
+
 
 ## Education
 > 자바 웹개발&앱개발자(시큐어코딩, Docker)양성과정 수료 <br/>
