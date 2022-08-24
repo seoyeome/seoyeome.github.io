@@ -15,7 +15,17 @@ hide_description: true
 
 <center>Birth: 1997.08.14</center>
 <center>Environmental Engineering</center>
-<center>Korea University Sejong</center>
+<center>Korea University Sejong</center><br/>
+
+<center>
+<span style="font-size:160%;font-weight:bold"> Intro </span><br/>
+제 생각을 실현할 수 있다는 '개발'에 매력을 느껴 시작하게 되었습니다.<br/>
+좋아하는 일인만큼 프로젝트를 진행하며 지식을 습득하는 것을 게을리 하지 않았습니다.<br/><br/>
+
+<span style="font-size:130%;font-weight:bold"> 도움을 주는 팀원 </span><br/>
+협업 Tool(Slack)을 찾아서 2시간에 1번씩 개발 진행상황, 지금의 기분 등을 공유하여 팀원들의 상황 공유를 통해 개발의 진척률을 높힐 수 있었습니다.<br/>
+Coding Convention, Commit Convention 을 찾아 공유했습니다.
+</center>
 
 
 ## Education
