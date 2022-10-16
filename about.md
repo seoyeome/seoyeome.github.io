@@ -24,7 +24,7 @@ hide_description: true
 
 <span style="font-size:130%;font-weight:bold"> 도움을 주는 팀원 </span><br/>
 협업 Tool(Slack)을 찾아서 2시간에 1번씩 개발 진행상황, 지금의 기분 등을 공유하여 팀원들의 상황 공유를 통해 개발의 진척률을 높힐 수 있었습니다.<br/>
-Coding Convention, Commit Convention 을 찾아 공유했습니다.<br/>
+Coding Convention, Commit Convention 을 찾아 공유했습니다.<br/><br/>
 
 <span style="font-size:130%;font-weight:bold"> 끊임없는 생각 </span><br/>
 코드를 작성하는 것에서 끝내지 않고 어떻게 해야 성능을 개선할 수 있을지 고민하고 적용합니다.<br/>
@@ -34,8 +34,7 @@ Coding Convention, Commit Convention 을 찾아 공유했습니다.<br/>
 
 
 ## Education
-> 자바 웹개발&앱개발자(시큐어코딩, Docker)양성과정 수료 <br/>
-> 중소기업벤처부 장관상 수상
+> 2021.10.26 ~ 2022.05.17 자바 웹개발&앱개발자(시큐어코딩, Docker)양성과정 수료 <br/>
 
 ## Work Experience
 > 2019.07.01~ 2019.07.31 효림산업 취수수처리사업본부 기술영업팀 인턴
